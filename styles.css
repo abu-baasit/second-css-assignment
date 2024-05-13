@@ -42,9 +42,10 @@ footer {
 }
 ul {
     
-    
+     text-align: center;    
 }
 li {
     margin: 16px 0;
+    text-align: center;
     
 }
